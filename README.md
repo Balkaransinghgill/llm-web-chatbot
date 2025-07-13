@@ -11,7 +11,7 @@ A web-based chatbot powered by a large language model (LLM). This project allows
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/llm-web-chatbot.git
+git clone https://github.com/Balkaransinghgill/llm-web-chatbot.git
 cd llm-web-chatbot
 pip install -r requirements.txt
 ```
@@ -38,6 +38,3 @@ We welcome contributions! See [CONTRIBUTING.md](docs/contributing.md).
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
 
-## 📫 Contact
-
-For support or inquiries, open an issue or email your-email@example.com.
